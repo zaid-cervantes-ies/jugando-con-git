@@ -1,5 +1,6 @@
 .div01{
     color: blueviolet;
+<<<<<<< HEAD
     width: 500px;
     height: 200px;
     margin: auto;
@@ -13,4 +14,6 @@
     background-color: brown;
     color: royalblue;
     position: relative; 
+=======
+>>>>>>> 26e9e7ad496f1f9d9402e61e1ce1495986a30cfc
 }
